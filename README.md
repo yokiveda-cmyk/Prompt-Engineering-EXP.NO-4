@@ -1,3 +1,4 @@
+[p.e lab exp-4.pdf](https://github.com/user-attachments/files/28458172/p.e.lab.exp-4.pdf)
 Ex.No.4-Generate the Prompt for the following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts.
 
 Aim: 
